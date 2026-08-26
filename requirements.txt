@@ -1,0 +1,8 @@
+# Pin exact versions that work together — do NOT use >=
+streamlit==1.37.0
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-groq==0.1.9
+langchain-google-genai==1.0.10
+requests==2.32.3
+python-dotenv==1.0.1
