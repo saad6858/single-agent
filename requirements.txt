@@ -1,0 +1,9 @@
+streamlit==1.37.0
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-groq==0.1.9
+langchain-google-genai==1.0.10
+langchain-openai==0.1.23
+requests==2.32.3
+tavily-python==0.3.5
+duckduckgo-search==6.2.6
